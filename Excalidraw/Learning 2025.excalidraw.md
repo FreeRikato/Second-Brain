@@ -169,13 +169,13 @@ Jan 26: ^1zzDhk3x
 Break ^L3cLtXsp
 
 ## Embedded Files
-190a8fd1d46a4d2b69f4c2fb75ddec016e4b080e: [[quartz/Files/computer.png]]
+190a8fd1d46a4d2b69f4c2fb75ddec016e4b080e: [[Files/computer.png]]
 
-27e4bc1a5dc4e8f0018cb8e9f4dccfb781e2cfaa: [[quartz/Files/golang.png]]
+27e4bc1a5dc4e8f0018cb8e9f4dccfb781e2cfaa: [[Files/golang.png]]
 
-cc380bfc50845deb8fc583c0e3608b7e9775182c: [[quartz/Files/Typescript_logo_2020.svg]]
+cc380bfc50845deb8fc583c0e3608b7e9775182c: [[Files/Typescript_logo_2020.svg]]
 
-b60ea29402ac50a1c0dd9bb22b8062b167eae2de: [[quartz/Files/python-logo-only.png]]
+b60ea29402ac50a1c0dd9bb22b8062b167eae2de: [[Files/python-logo-only.png]]
 
 %%
 ## Drawing

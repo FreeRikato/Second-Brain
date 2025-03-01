@@ -332,53 +332,53 @@ Hardware ^09OSqqgI
 Disk, Network) ^gAlTGi4y
 
 ## Embedded Files
-bc3ccf83d1a9a50166d377888d8a76dd0f12151a: [[quartz/Files/Pasted Image 20250222164502_069.png]]
+bc3ccf83d1a9a50166d377888d8a76dd0f12151a: [[Files/Pasted Image 20250222164502_069.png]]
 
-80ae75af70e6f1b67456048eca5cf751a22b1751: [[quartz/Files/Pasted Image 20250222165328_525.png]]
+80ae75af70e6f1b67456048eca5cf751a22b1751: [[Files/Pasted Image 20250222165328_525.png]]
 
-0ef625fe1085c24ed57e5f6436912c4a4c82ad08: [[quartz/Files/Pasted Image 20250222170110_765.png]]
+0ef625fe1085c24ed57e5f6436912c4a4c82ad08: [[Files/Pasted Image 20250222170110_765.png]]
 
-ea9315534b09e0ac2ccf79912fe8d38f19cf9e23: [[quartz/Files/Pasted Image 20250223155200_538.png]]
+ea9315534b09e0ac2ccf79912fe8d38f19cf9e23: [[Files/Pasted Image 20250223155200_538.png]]
 
-a1d438c1a77303d6692e55b44e00ba9a8c6b460c: [[quartz/Files/Pasted Image 20250223155302_758.png]]
+a1d438c1a77303d6692e55b44e00ba9a8c6b460c: [[Files/Pasted Image 20250223155302_758.png]]
 
-3a4bf12372b6473b95171a7dbdd8142b5eedfba7: [[quartz/Files/Pasted Image 20250223155414_545.png]]
+3a4bf12372b6473b95171a7dbdd8142b5eedfba7: [[Files/Pasted Image 20250223155414_545.png]]
 
-ab7a0dacbb414c2d47e038a0501bee1605be89b8: [[quartz/Files/Pasted Image 20250223155538_440.png]]
+ab7a0dacbb414c2d47e038a0501bee1605be89b8: [[Files/Pasted Image 20250223155538_440.png]]
 
-52f8236070e932ec5962323f9dc764223a41b73f: [[quartz/Files/Pasted Image 20250223155620_940.png]]
+52f8236070e932ec5962323f9dc764223a41b73f: [[Files/Pasted Image 20250223155620_940.png]]
 
-fd4965ae50feafa94b408822710b411cc010832d: [[quartz/Files/Pasted Image 20250223155718_009.png]]
+fd4965ae50feafa94b408822710b411cc010832d: [[Files/Pasted Image 20250223155718_009.png]]
 
-7bd998ba270d79b8937e3e7b46e88330cc75a638: [[quartz/Files/Pasted Image 20250223155751_297.png]]
+7bd998ba270d79b8937e3e7b46e88330cc75a638: [[Files/Pasted Image 20250223155751_297.png]]
 
-f2eabeec46143adb5de0b2664445e2e83a84f7a4: [[quartz/Files/Pasted Image 20250223160440_671.png]]
+f2eabeec46143adb5de0b2664445e2e83a84f7a4: [[Files/Pasted Image 20250223160440_671.png]]
 
-1a7eae2f17f6d29d08f5d84e048bacc671303402: [[quartz/Files/Pasted Image 20250223161321_336.png]]
+1a7eae2f17f6d29d08f5d84e048bacc671303402: [[Files/Pasted Image 20250223161321_336.png]]
 
-3dc9ec3a4a9abf5312bbc323a67d22b4152e35c0: [[quartz/Files/Pasted Image 20250223161533_279.png]]
+3dc9ec3a4a9abf5312bbc323a67d22b4152e35c0: [[Files/Pasted Image 20250223161533_279.png]]
 
-3db19ed29323215769dccca51ebc637b235e2b04: [[quartz/Files/Pasted Image 20250223161638_783.png]]
+3db19ed29323215769dccca51ebc637b235e2b04: [[Files/Pasted Image 20250223161638_783.png]]
 
-0847930396a729978f88cd8199aec36a4375bc9d: [[quartz/Files/Pasted Image 20250223163907_536.png]]
+0847930396a729978f88cd8199aec36a4375bc9d: [[Files/Pasted Image 20250223163907_536.png]]
 
-2bcb21a845af855664f462f38095ffadee5dd016: [[quartz/Files/Pasted Image 20250224165234_389.png]]
+2bcb21a845af855664f462f38095ffadee5dd016: [[Files/Pasted Image 20250224165234_389.png]]
 
-1abf1a498bf6a54da96f39722da3ff206806a509: [[quartz/Files/Pasted Image 20250224165302_149.png]]
+1abf1a498bf6a54da96f39722da3ff206806a509: [[Files/Pasted Image 20250224165302_149.png]]
 
-3009a4ed819b9b4b22e131577968d40ab6d81523: [[quartz/Files/Pasted Image 20250224165356_679.png]]
+3009a4ed819b9b4b22e131577968d40ab6d81523: [[Files/Pasted Image 20250224165356_679.png]]
 
-3cb558b24dd12d38339bd6da9e08a163f4ea03cb: [[quartz/Files/Pasted Image 20250224165515_906.png]]
+3cb558b24dd12d38339bd6da9e08a163f4ea03cb: [[Files/Pasted Image 20250224165515_906.png]]
 
-f919ce5757f5f034f97fe04aae3882522a8803c8: [[quartz/Files/Pasted Image 20250224205047_848.png]]
+f919ce5757f5f034f97fe04aae3882522a8803c8: [[Files/Pasted Image 20250224205047_848.png]]
 
-893cf4cb21a3c368cddeba5c2a273b88ae623b20: [[quartz/Files/Pasted Image 20250211115828_454.png]]
+893cf4cb21a3c368cddeba5c2a273b88ae623b20: [[Files/Pasted Image 20250211115828_454.png]]
 
-42479bbbecb4c861e519013111099f31497a4b91: [[quartz/Files/Pasted Image 20250224210552_660.png]]
+42479bbbecb4c861e519013111099f31497a4b91: [[Files/Pasted Image 20250224210552_660.png]]
 
-946fa2fc0ff93485a00f412fbf6f0f5b82653c69: [[quartz/Files/Pasted Image 20250224212410_944.png]]
+946fa2fc0ff93485a00f412fbf6f0f5b82653c69: [[Files/Pasted Image 20250224212410_944.png]]
 
-4300ec456eb361eb4d90a8af7e220d799becb017: [[quartz/Files/Pasted Image 20250224212511_167.png]]
+4300ec456eb361eb4d90a8af7e220d799becb017: [[Files/Pasted Image 20250224212511_167.png]]
 
 %%
 ## Drawing

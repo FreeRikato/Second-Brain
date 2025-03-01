@@ -122,7 +122,7 @@ root component of the React To-do app. ^gxO4QNrG
 ## Embedded Files
 d15344eed0cebb53594c66d7fc7300080bb93936: [[Files/meteor-js-icon.svg]]
 
-ad8d19841a2f9dc491a159e19108d45119e0292e: [[quartz/Files/Pasted Image 20250116222811_576.png]]
+ad8d19841a2f9dc491a159e19108d45119e0292e: [[Files/Pasted Image 20250116222811_576.png]]
 
 %%
 ## Drawing
