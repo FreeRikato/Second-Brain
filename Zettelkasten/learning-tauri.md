@@ -1,4 +1,4 @@
-![[Pasted image 20250302032324.png]]
+![[Files/Pasted image 20250302032324.png]]
 
 > **Objective**: Building tiny, fast binaries for all major desktop and mobile platforms.
 
@@ -15,7 +15,7 @@ pnpm create tauri-app
 	- Code + Specific Assets ✅ Browser Engine ❌
 - Flexibility for developers
 	- Virtually any frontend framework is compatible
-	- Bindings between JavaScript and Rust are available to developers using the `invloke` function in JavaScript, Swift and Kotlin bindings available for [[tauri plugins]]
+	- Bindings between JavaScript and Rust are available to developers using the `invloke` function in JavaScript, Swift and Kotlin bindings available for [[Zettelkasten/tauri plugins]]
 		- TAO library => Responsible for creating and managing windows in Tauri applications.
 		- WRY library => Handles rendering of web views in Tauri applications.
 		- Tauri plugins => Extend the core functionalities of Tauri.
@@ -34,7 +34,7 @@ pnpm create tauri-app
 
 - *Problem*: Traditional desktop apps require large runtimes (e.g. Electron) and increase application size
 - *Solution*: Use Rust for the backend and Webview for rendering, avoiding shipping a full browser engine.
-![[Pasted image 20250302035538.png]]
+![[Files/Pasted image 20250302035538.png]]
 - **What Tauri is NOT**: 
 > ❌ Kernel wrapper (does not wrap OS) nor VM (interacts directly with OS-level APIs)
 > Uses `WRY` and `TAQ` to do the heavy lifting in making calls to the OS
@@ -69,10 +69,10 @@ pnpm create tauri-app
 
 ### **Upstream Crates**
 
-|Component|Description|
-|---|---|
-|**TAO**|Cross-platform Rust library for application window creation. Supports Windows, macOS, Linux, iOS, and Android. Fork of `winit`, extended with features like the menu bar and system tray.|
-|**WRY**|Cross-platform Rust library for WebView rendering. Supports Windows, macOS, and Linux. Tauri uses WRY to abstract webview handling and interactions.|
+| Component | Description                                                                                                                                                                               |
+| --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **TAO**   | Cross-platform Rust library for application window creation. Supports Windows, macOS, Linux, iOS, and Android. Fork of `winit`, extended with features like the menu bar and system tray. |
+| **WRY**   | Cross-platform Rust library for WebView rendering. Supports Windows, macOS, and Linux. Tauri uses WRY to abstract webview handling and interactions.                                      |
 
 ---
 
