@@ -1,4 +1,5 @@
-[[nvim configuration]]
+[[nvim configuration errors]]
 
-[[typescript]]
+[[typescript errors]]
 
+[[typeorm errors]]
