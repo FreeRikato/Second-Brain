@@ -1,0 +1,3 @@
+- [x] [[Primeagen tmux sessionizer]]
+- [ ] When pasting on top of a text in vim motion, the paste buffer now stores the bottom text that got replaced. Have to fix this since i could copy and paste a text multiple times
+- [ ] 
