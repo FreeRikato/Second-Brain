@@ -15,7 +15,7 @@ Paste the following into the file:
 if [[ $# -eq 1 ]]; then
     selected=$1
 else
-    selected=$(find ~/projects ~/tests -mindepth 1 -maxdepth 1 -type d | fzf)
+    selected=$(find ~/Developer/personal ~/Developer/work ~/.config -mindepth 1 -maxdepth 1 -type d | fzf)
 fi
 
 if [[ -z $selected ]]; then
@@ -53,33 +53,17 @@ chmod +x ~/.local/scripts/tmux-sessionizer
 
 ## ✅ 2. Add Script to Your Shell Configuration
 
-Choose your shell below:
-
-### For **Bash** (`~/.bashrc`):
+### Inside `~/.zshrc`:
 
 ```bash
-echo 'PATH="$PATH:$HOME/.local/scripts"' >> ~/.bashrc
-echo 'bind "\C-f":"tmux-sessionizer\n"' >> ~/.bashrc
-```
-
-### For **Zsh** (`~/.zshrc`):
-
-```bash
-echo 'PATH="$PATH:$HOME/.local/scripts"' >> ~/.zshrc
-echo 'bindkey -s ^f "tmux-sessionizer\n"' >> ~/.zshrc
-```
-
-### For **Fish** (`~/.config/fish/config.fish`):
-
-```fish
-set -Ux PATH $PATH $HOME/.local/scripts
-bind \cf "tmux-sessionizer"
+PATH="$PATH:$HOME/.local/scripts"
+bindkey -s ^f "tmux-sessionizer\n"
 ```
 
 Then restart your shell:
 
 ```bash
-exec $SHELL
+source ~/.zshrc
 ```
 
 ---
@@ -93,13 +77,13 @@ Edit `~/.tmux.conf`:
 bind-key -r f run-shell "tmux neww ~/.local/scripts/tmux-sessionizer"
 
 # Optional: Jump directly to a specific project with <prefix>k
-bind-key -r k run-shell "~/.local/scripts/tmux-sessionizer ~/projects/work/tmux-theme"
+bind-key -r k run-shell "~/.local/scripts/tmux-sessionizer"
 ```
 
 Then reload tmux config:
 
 ```bash
-tmux source-file ~/.tmux.conf
+tmux source-file ~/.config/tmux/tmux.conf
 ```
 
 ---

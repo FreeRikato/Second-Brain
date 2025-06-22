@@ -1,4 +1,4 @@
-[[Zettelkasten/Core vs Thread vs Process vs Program vs Task|Core vs Thread vs Process vs Program vs Task]]
+[[Core vs Thread vs Process vs Program vs Task|Core vs Thread vs Process vs Program vs Task]]
 ## What problem does it solve?
 Node.js runs on a single thread by default, so on a multi-core CPU, your server might only use one core, leaving the others idle
 **Goal**: Use all CPU cores by spawning multiple processes (workers)  that can share the same server port and handle requests in parallel
